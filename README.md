@@ -1,4 +1,4 @@
-# Doodle - A Search Engine for Developers.
+# Doodle - A Search Engine for Developers 👨‍💻
 
 How many times did you come across a programming issue, and had to spend hours shuffling through StackOverflow / Forums / Social Media?
 
