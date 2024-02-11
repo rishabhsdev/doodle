@@ -10,7 +10,7 @@ More websites and forums are being added continously.
 
 **Tech Used:**
 
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk) &nbsp; ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring) &nbsp; ![Maven](https://img.shields.io/badge/maven-black?style=for-the-badge&logo=maven) &nbsp; ![Thymeleaf](https://img.shields.io/badge/thymeleaf-black?style=for-the-badge&logo=thymeleaf) &nbsp; ![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk) &nbsp; ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring) &nbsp; ![Maven](https://img.shields.io/badge/apachemaven-black?style=for-the-badge&logo=apachemaven) &nbsp; ![Thymeleaf](https://img.shields.io/badge/thymeleaf-black?style=for-the-badge&logo=thymeleaf) &nbsp; ![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium) &nbsp; ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 
 
 **Doodle**
