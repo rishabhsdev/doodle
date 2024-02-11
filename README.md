@@ -6,7 +6,7 @@ I know the feeling, thats why I decided to create this custom Search Engine for 
 
 More websites and forums are being added continously.
 
-[Check it out ->](https://projects.rishabhsingh.dev/doodle)
+[Check it out 🔗](https://projects.rishabhsingh.dev/doodle)
 
 **Tech Used:**
 
