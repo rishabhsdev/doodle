@@ -1,7 +1,10 @@
 # Doodle - A Search Engine for Developers.
 
-How many times did you come across a programming issue, and you had to spend hours shuffling through StackOverflow / Forums / Social Media - trying to find a solution?
-I know the feeling, thats why I decided to create this custom Search Engine for Developers. It searches your entered query through popular Coding forums, Social Media, and Blogs to group together the most relevant answers. More websites and forums are being added continously.
+How many times did you come across a programming issue, and had to spend hours shuffling through StackOverflow / Forums / Social Media?
+
+I know the feeling, thats why I decided to create this custom Search Engine for Developers. It searches your entered query through popular Coding forums, Social Media, and Blogs to group together the most relevant answers. 
+
+More websites and forums are being added continously.
 
 
 **Tech Used:**
